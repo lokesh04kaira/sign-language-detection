@@ -1,1 +1,1 @@
-# sign-language-detection
+# sign_language_detection
